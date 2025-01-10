@@ -15,7 +15,7 @@
 `$ ./insta.php --help`
 
 ### Get UserId of an Instagram Username
-```
+brajovic1510
 $ ./insta.php -u your_instagram_username -p your_instagram_password uinfo -n davidbeckham
 
 ℹ Login Successful !
