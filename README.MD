@@ -16,15 +16,22 @@
 
 ### Get UserId of an Instagram Username
 ```
-$ ./insta.php -u your_instagram_username -p your_instagram_password uinfo -n davidbeckham
+$ ./insta.php -u your_instagram_brajovic1510
+-p your_instagram_password uinfo -n isidora brajovic
 
 ℹ Login Successful !
-ℹ UserId for Username is :186904952
+ℹ UserId for brajovic1510 is :186904952
 ```
 
 ### Get All Photos and Videos of Sample Users
 ```
-$ ./insta.php -u your_instagram_username -p your_instagram_password --total=40 ufeed -n davidbeckham
-```
+$ ./insta.php -u your_instagram_brajovic1510 -p your_instagram_password --total=40 ufeed -n isodorabrajovic
+
+
+
+
+
+
+
 
 
